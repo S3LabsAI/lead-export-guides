@@ -1,7 +1,7 @@
 {
   "extraKnownMarketplaces": {
     "tomstools-mods": {
-      "source": { "source": "github", "repo": "TomsTools11/claude-command-center" }
+      "source": { "source": "github", "repo": "S3LabsAI/claude-command-center" }
     }
   },
   "enabledPlugins": {
